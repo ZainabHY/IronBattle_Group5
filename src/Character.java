@@ -1,5 +1,5 @@
 // Abstract class, Constructor with parameters , Getter , Setters :
-public abstract class Character {
+public abstract class Character implements Attacker {
     private String id;
     private String name;
     private int hp;
